@@ -10,7 +10,7 @@ public class Test {
 		// 3. Encoding¹æ½Ä (UTF-8)
 
 		System.out.println("First Code");
-		//msh
+		//mshggg
 	}
 
 }
