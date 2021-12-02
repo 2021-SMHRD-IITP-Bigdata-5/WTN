@@ -1,14 +1,14 @@
 public class Test {
 
 	public static void main(String[] args) {
-		// Github È¯°æ¼³Á¤
-		//1. JDK ¹öÀü
-		//2. tomcat ¹öÀü
-		//3. encodig ¹æ½Ä (UTF-8)
+		// Github í™˜ê²½ì„¤ì •
+		//1. JDK ë²„ì „
+		//2. tomcat ë²„ì „
+		//3. encodig  ë°©ì‹ (UTF-8)
 		
 
 		System.out.println("First Code");
-		//dddddddddd
+		// ê³„ì† í™•ì¸
 	
 	}
 
