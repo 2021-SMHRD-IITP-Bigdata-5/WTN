@@ -5,12 +5,11 @@ public class Test {
 		//1. JDK 버전
 		//2. tomcat 버전
 		//3. encodig 방식 (UTF-8)
-		// 1. jdk 버전
-		// 2. Tomcat 버전
-		// 3. Encoding방식 (UTF-8)
+		
 
 		System.out.println("First Code");
-		//mshggg
+		//dddddddddd
+	
 	}
 
 }
